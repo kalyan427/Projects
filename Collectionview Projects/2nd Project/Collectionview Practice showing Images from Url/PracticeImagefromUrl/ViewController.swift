@@ -43,7 +43,6 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
         ImageList(name: "https://images.unsplash.com/photo-1637179515167-48aeb4171b27?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", price: 29.99),
         ImageList(name: "https://images.unsplash.com/photo-1637236597834-7aec59385f06?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0MXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", price: 30.99),
         ImageList(name: "https://images.unsplash.com/photo-1637212225444-77622d857c4e?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0M3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", price: 31.99)
-        
     ]
     
     override func viewDidLoad() {
