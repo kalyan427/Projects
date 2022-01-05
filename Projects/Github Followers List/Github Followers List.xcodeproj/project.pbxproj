@@ -13,6 +13,8 @@
 		307B2B122777DAFB003B9DD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 307B2B102777DAFB003B9DD7 /* LaunchScreen.storyboard */; };
 		308915AD2785568F0088E6A9 /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308915AC2785568F0088E6A9 /* SearchVC.swift */; };
 		308915AF278556A30088E6A9 /* FavoritesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308915AE278556A30088E6A9 /* FavoritesVC.swift */; };
+		308915B12785630E0088E6A9 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308915B02785630E0088E6A9 /* GFButton.swift */; };
+		308915B32785657E0088E6A9 /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308915B22785657E0088E6A9 /* GFTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		307B2B132777DAFB003B9DD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		308915AC2785568F0088E6A9 /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
 		308915AE278556A30088E6A9 /* FavoritesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesVC.swift; sourceTree = "<group>"; };
+		308915B02785630E0088E6A9 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
+		308915B22785657E0088E6A9 /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				307B2B072777DAF6003B9DD7 /* SceneDelegate.swift */,
 				308915AC2785568F0088E6A9 /* SearchVC.swift */,
 				308915AE278556A30088E6A9 /* FavoritesVC.swift */,
+				308915B02785630E0088E6A9 /* GFButton.swift */,
+				308915B22785657E0088E6A9 /* GFTextField.swift */,
 				307B2B0E2777DAFB003B9DD7 /* Assets.xcassets */,
 				307B2B102777DAFB003B9DD7 /* LaunchScreen.storyboard */,
 				307B2B132777DAFB003B9DD7 /* Info.plist */,
@@ -136,7 +142,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				308915B32785657E0088E6A9 /* GFTextField.swift in Sources */,
 				308915AF278556A30088E6A9 /* FavoritesVC.swift in Sources */,
+				308915B12785630E0088E6A9 /* GFButton.swift in Sources */,
 				308915AD2785568F0088E6A9 /* SearchVC.swift in Sources */,
 				307B2B062777DAF6003B9DD7 /* AppDelegate.swift in Sources */,
 				307B2B082777DAF6003B9DD7 /* SceneDelegate.swift in Sources */,
